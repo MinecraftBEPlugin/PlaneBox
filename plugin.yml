@@ -1,0 +1,9 @@
+name: PlaneBox
+main: MinecraftLEADTV\PlaneBox\Main
+version: "Beta_0"
+api: 
+- 3.0.0
+- 4.0.0
+load: POSTWORLD
+author: MinecraftLEADTV
+description: PlaneBox. Usage: /planebox, /드롭박스
